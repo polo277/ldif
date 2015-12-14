@@ -1,0 +1,35 @@
+# AUTO-GENERATED FILE - DO NOT EDIT!! Use ldapmodify.
+# CRC32 8457bb31
+dn: cn=config
+objectClass: olcGlobal
+cn: config
+olcConfigFile: config
+olcConfigDir: .
+olcAttributeOptions: lang-
+olcAuthzPolicy: none
+olcConcurrency: 0
+olcConnMaxPending: 100
+olcConnMaxPendingAuth: 1000
+olcGentleHUP: FALSE
+olcIdleTimeout: 0
+olcIndexSubstrIfMaxLen: 4
+olcIndexSubstrIfMinLen: 2
+olcIndexSubstrAnyLen: 4
+olcIndexSubstrAnyStep: 2
+olcIndexIntLen: 4
+olcListenerThreads: 1
+olcLocalSSF: 71
+olcLogLevel: 0
+olcReadOnly: FALSE
+olcSockbufMaxIncoming: 262143
+olcSockbufMaxIncomingAuth: 16777215
+olcThreads: 16
+olcToolThreads: 1
+olcWriteTimeout: 0
+structuralObjectClass: olcGlobal
+entryUUID: 000ed95a-1d93-1035-8bde-81f79a1cd576
+creatorsName: cn=config
+createTimestamp: 20151112141123Z
+entryCSN: 20151112141123.903511Z#000000#000#000000
+modifiersName: cn=config
+modifyTimestamp: 20151112141123Z

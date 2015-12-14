@@ -1,0 +1,5 @@
+dn: cn=polo,ou=instituto,dc=poloasir,dc=com
+objectClass: person
+cn: polo
+sn: polo
+userpassword: polo

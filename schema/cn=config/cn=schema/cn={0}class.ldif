@@ -1,0 +1,7 @@
+# AUTO-GENERATED FILE - DO NOT EDIT!! Use ldapmodify.
+# CRC32 066ce6a5
+dn: cn=class,cn=schema,cn=config
+objectClass: olcSchemaConfig
+cn: class
+olcObjectClasses: ( 1.3.6.1.4.1.4203.666.001 NAME 'ReflectionAppJavaUserA
+ dminPermissionAddNewUser' DESC 'User admin with permission' AUXILIARY )

@@ -1,0 +1,6 @@
+dn: cn=prueba,ou=instituto,dc=poloasir,dc=com
+objectClass: person
+objectClass: ReflectionAppJavaUserAdminPermissionAddNewUser
+cn: prueba
+sn: prueba
+userpassword: prueba

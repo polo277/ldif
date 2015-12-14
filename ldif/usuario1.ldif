@@ -1,0 +1,5 @@
+dn: cn=marta,ou=instituto,dc=poloasir,dc=com
+objectClass: person
+cn: marta
+sn: marta
+userpassword: marta

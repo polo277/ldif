@@ -1,0 +1,9 @@
+dn: dc=poloasir,dc=com
+objectClass: dcObject
+objectClass: organization
+o: polo
+dc: poloasir
+
+dc: cn=Manager,dc=poloasir,dc=com
+objectClass: organizationalRole
+cn:Manager

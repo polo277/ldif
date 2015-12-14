@@ -1,0 +1,3 @@
+dn: ou=instituto,dc=poloasir,dc=com
+objectClass: organizationalUnit
+ou: instituto
